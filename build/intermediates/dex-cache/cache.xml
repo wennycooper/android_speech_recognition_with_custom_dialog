@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/kkuei/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_core/apache_xmlrpc_server/0.2.1/f96701e8f578b6a4fc538e8a8a6b8f9256fd6718/apache_xmlrpc_server-0.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f96701e8f578b6a4fc538e8a8a6b8f9256fd6718">
+        <dex dex="/home/kkuei/android_core/android_speech/build/intermediates/pre-dexed/debug/apache_xmlrpc_server-0.2.1-bc0cfb7245e4cfd2ce4975db58cfd64b17bd854c.jar" />
+    </item>
+    <item
+        jar="/home/kkuei/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_messages/actionlib_msgs/1.11.7/9ec983bb2eaaa20552edeb3544e04a45308fe71b/actionlib_msgs-1.11.7.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9ec983bb2eaaa20552edeb3544e04a45308fe71b">
+        <dex dex="/home/kkuei/android_core/android_speech/build/intermediates/pre-dexed/debug/actionlib_msgs-1.11.7-a7bb7b4e4c06918efae8a2d39c1634c19c52a94b.jar" />
+    </item>
+    <item
+        jar="/home/kkuei/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_messages/rosjava_test_msgs/0.2.1/e10783e01c21cbe271aa6062c87f20d11c6053f0/rosjava_test_msgs-0.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e10783e01c21cbe271aa6062c87f20d11c6053f0">
+        <dex dex="/home/kkuei/android_core/android_speech/build/intermediates/pre-dexed/debug/rosjava_test_msgs-0.2.1-5fe534d8a46fef70c41c9e4f4865afd877e629ff.jar" />
+    </item>
+    <item
+        jar="/home/kkuei/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_messages/geometry_msgs/1.11.7/bb9ca9051697047f8ebacae69956aa562d43b0e1/geometry_msgs-1.11.7.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="bb9ca9051697047f8ebacae69956aa562d43b0e1">
+        <dex dex="/home/kkuei/android_core/android_speech/build/intermediates/pre-dexed/debug/geometry_msgs-1.11.7-5adffd326e61afd4430b2b3e0641a96af76f5258.jar" />
+    </item>
+    <item
+        jar="/home/kkuei/.gradle/caches/modules-2/files-2.1/org.apache.commons/com.springsource.org.apache.commons.httpclient/3.1.0/c493a925a091ac3d8f449d9265fe12482dabb2a7/com.springsource.org.apache.commons.httpclient-3.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c493a925a091ac3d8f449d9265fe12482dabb2a7">
+        <dex dex="/home/kkuei/android_core/android_speech/build/intermediates/pre-dexed/debug/com.springsource.org.apache.commons.httpclient-3.1.0-2f683a6a2da9bbbefc5274c3f99d0d7c60f7ceb6.jar" />
+    </item>
+    <item
+        jar="/home/kkuei/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/1.3.9/40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf/jsr305-1.3.9.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="/home/kkuei/android_core/android_speech/build/intermediates/pre-dexed/debug/jsr305-1.3.9-d3ffc885d03016a1e2a77ed2772fd6ede6d071ea.jar" />
+    </item>
+    <item
+        jar="/home/kkuei/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_messages/std_msgs/0.5.9/68490f8a983f5415bb95ebf93010c347c4fd20d8/std_msgs-0.5.9.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="68490f8a983f5415bb95ebf93010c347c4fd20d8">
+        <dex dex="/home/kkuei/android_core/android_speech/build/intermediates/pre-dexed/debug/std_msgs-0.5.9-a889da45c83403a8af77fca75df4990a018f7055.jar" />
+    </item>
+    <item
+        jar="/home/kkuei/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_core/apache_xmlrpc_common/0.2.1/a956178368232d0a9fccf501a8c91aacf2ac0256/apache_xmlrpc_common-0.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a956178368232d0a9fccf501a8c91aacf2ac0256">
+        <dex dex="/home/kkuei/android_core/android_speech/build/intermediates/pre-dexed/debug/apache_xmlrpc_common-0.2.1-18c9f2b555236dc6b1c8beb6b70ea37b1c5e104d.jar" />
+    </item>
+    <item
+        jar="/home/kkuei/.gradle/caches/modules-2/files-2.1/org.apache.commons/com.springsource.org.apache.commons.io/1.4.0/51097cd000ec88214ff181c9f059947de1cf4a35/com.springsource.org.apache.commons.io-1.4.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="51097cd000ec88214ff181c9f059947de1cf4a35">
+        <dex dex="/home/kkuei/android_core/android_speech/build/intermediates/pre-dexed/debug/com.springsource.org.apache.commons.io-1.4.0-e27742a300855acc7fafa3b23adc7c1294e817e5.jar" />
+    </item>
+    <item
+        jar="/home/kkuei/.gradle/caches/modules-2/files-2.1/org.apache.commons/com.springsource.org.apache.commons.codec/1.3.0/f8690570eb0913d750262bb4223eed30b0d619ed/com.springsource.org.apache.commons.codec-1.3.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f8690570eb0913d750262bb4223eed30b0d619ed">
+        <dex dex="/home/kkuei/android_core/android_speech/build/intermediates/pre-dexed/debug/com.springsource.org.apache.commons.codec-1.3.0-e8214aa42d4df3d98afeaf46866a12c72a7a4a0e.jar" />
+    </item>
+    <item
+        jar="/home/kkuei/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_core/apache_xmlrpc_client/0.2.1/55f1cf075db9507a26102898e9f146221e4c1aaf/apache_xmlrpc_client-0.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="55f1cf075db9507a26102898e9f146221e4c1aaf">
+        <dex dex="/home/kkuei/android_core/android_speech/build/intermediates/pre-dexed/debug/apache_xmlrpc_client-0.2.1-5965703ab3510ef878660f64aabd8a08e9c22dba.jar" />
+    </item>
+    <item
+        jar="/home/kkuei/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_messages/sensor_msgs/1.11.7/5f0b7ac0b5d341b9b37f408ab45c4a2e4c80068e/sensor_msgs-1.11.7.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5f0b7ac0b5d341b9b37f408ab45c4a2e4c80068e">
+        <dex dex="/home/kkuei/android_core/android_speech/build/intermediates/pre-dexed/debug/sensor_msgs-1.11.7-b73f35d1e5c8118e3763ffd365a20bbcd90121b5.jar" />
+    </item>
+    <item
+        jar="/home/kkuei/.gradle/caches/modules-2/files-2.1/org.apache.ws.commons/ws-commons-util/1.0.1/126e80ff798fece634bc94e61f8be8a8da00be60/ws-commons-util-1.0.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="126e80ff798fece634bc94e61f8be8a8da00be60">
+        <dex dex="/home/kkuei/android_core/android_speech/build/intermediates/pre-dexed/debug/ws-commons-util-1.0.1-ad4cf9187b0ed4f87835da239159e4e43ba44d1d.jar" />
+    </item>
+    <item
+        jar="/home/kkuei/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_bootstrap/message_generation/0.2.1/dc3afb66cd5aa168a71bcb63ba89560b197b9300/message_generation-0.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dc3afb66cd5aa168a71bcb63ba89560b197b9300">
+        <dex dex="/home/kkuei/android_core/android_speech/build/intermediates/pre-dexed/debug/message_generation-0.2.1-50490dc4819c854bb0cdbb5ab48f693e2ffd39b3.jar" />
+    </item>
+    <item
+        jar="/home/kkuei/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_core/rosjava/0.2.1/68face01dcd34ac0dd82fc3745afd764d330b427/rosjava-0.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="68face01dcd34ac0dd82fc3745afd764d330b427">
+        <dex dex="/home/kkuei/android_core/android_speech/build/intermediates/pre-dexed/debug/rosjava-0.2.1-465b13c89bf7007b39f05c6d3d75fabeb4fbaf41.jar" />
+    </item>
+    <item
+        jar="/home/kkuei/.gradle/caches/modules-2/files-2.1/org.apache.commons/com.springsource.org.apache.commons.lang/2.4.0/686e3713650c8e3a5d98723b4d3e239586bf9822/com.springsource.org.apache.commons.lang-2.4.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="686e3713650c8e3a5d98723b4d3e239586bf9822">
+        <dex dex="/home/kkuei/android_core/android_speech/build/intermediates/pre-dexed/debug/com.springsource.org.apache.commons.lang-2.4.0-e85ce9ab2262faa1252ff5bcfa8462e5e1c382b7.jar" />
+    </item>
+    <item
+        jar="/home/kkuei/.gradle/caches/modules-2/files-2.1/dnsjava/dnsjava/2.1.1/5708df81cf6dbff545695f0be6380b7bbc85accc/dnsjava-2.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5708df81cf6dbff545695f0be6380b7bbc85accc">
+        <dex dex="/home/kkuei/android_core/android_speech/build/intermediates/pre-dexed/debug/dnsjava-2.1.1-a897eea85e2cf0275726b61a6111c076923448f7.jar" />
+    </item>
+    <item
+        jar="/home/kkuei/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_messages/tf2_msgs/0.5.9/b2fea11356b0f4ce744f30ac76e987b531b6028e/tf2_msgs-0.5.9.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b2fea11356b0f4ce744f30ac76e987b531b6028e">
+        <dex dex="/home/kkuei/android_core/android_speech/build/intermediates/pre-dexed/debug/tf2_msgs-0.5.9-a4fe36e70e381161b4eaa6092dc3ef7fb9e1ebdb.jar" />
+    </item>
+    <item
+        jar="/home/kkuei/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_messages/diagnostic_msgs/1.11.7/119c52755000fa22288dd666c4185f54ca737410/diagnostic_msgs-1.11.7.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="119c52755000fa22288dd666c4185f54ca737410">
+        <dex dex="/home/kkuei/android_core/android_speech/build/intermediates/pre-dexed/debug/diagnostic_msgs-1.11.7-5257dd155f7677cd51ba1837189833d02baeb67a.jar" />
+    </item>
+    <item
+        jar="/home/kkuei/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_messages/rosgraph_msgs/1.11.1/e3d30a4a74f6282d014f7fd9828f5131bb3a9915/rosgraph_msgs-1.11.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e3d30a4a74f6282d014f7fd9828f5131bb3a9915">
+        <dex dex="/home/kkuei/android_core/android_speech/build/intermediates/pre-dexed/debug/rosgraph_msgs-1.11.1-cb6af6fd3a5276319cce460e71df8473fec45605.jar" />
+    </item>
+    <item
+        jar="/home/kkuei/android_core/android_speech/build/intermediates/exploded-aar/org.ros.android_core/android_10/0.2.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d2d089b4686c33e8977e5a1195f50a22a01e7380">
+        <dex dex="/home/kkuei/android_core/android_speech/build/intermediates/pre-dexed/debug/classes-c3ce095c24a3350e07149c638a5faed0fec2fa58.jar" />
+    </item>
+    <item
+        jar="/home/kkuei/.gradle/caches/modules-2/files-2.1/commons-pool/commons-pool/1.6/4572d589699f09d866a226a14b7f4323c6d8f040/commons-pool-1.6.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4572d589699f09d866a226a14b7f4323c6d8f040">
+        <dex dex="/home/kkuei/android_core/android_speech/build/intermediates/pre-dexed/debug/commons-pool-1.6-914910d90b0414046e81e6563286e83da2af87e9.jar" />
+    </item>
+    <item
+        jar="/home/kkuei/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_bootstrap/gradle_plugins/0.2.1/33c05915db7ef72ac3978d33b16abd1b4b06fec9/gradle_plugins-0.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="33c05915db7ef72ac3978d33b16abd1b4b06fec9">
+        <dex dex="/home/kkuei/android_core/android_speech/build/intermediates/pre-dexed/debug/gradle_plugins-0.2.1-d64f4392a1da4ed95bfe7fc91a5c8ff079096fd0.jar" />
+    </item>
+    <item
+        jar="/home/kkuei/.gradle/caches/modules-2/files-2.1/org.apache.commons/com.springsource.org.apache.commons.net/2.0.0/3e78766072ff5a5cf3f5431d973c430c94ec612/com.springsource.org.apache.commons.net-2.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="03e78766072ff5a5cf3f5431d973c430c94ec612">
+        <dex dex="/home/kkuei/android_core/android_speech/build/intermediates/pre-dexed/debug/com.springsource.org.apache.commons.net-2.0.0-d9fb1326a398a3274dbc38030f77c542966c7f16.jar" />
+    </item>
+    <item
+        jar="/home/kkuei/.gradle/caches/modules-2/files-2.1/org.apache.commons/com.springsource.org.apache.commons.logging/1.1.1/7657caf2c78e1d79c74d36f2ae128a115f7cc180/com.springsource.org.apache.commons.logging-1.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7657caf2c78e1d79c74d36f2ae128a115f7cc180">
+        <dex dex="/home/kkuei/android_core/android_speech/build/intermediates/pre-dexed/debug/com.springsource.org.apache.commons.logging-1.1.1-3a36882b285716aa4b0d81b60f0fc255b93af542.jar" />
+    </item>
+    <item
+        jar="/home/kkuei/.gradle/caches/modules-2/files-2.1/io.netty/netty/3.5.2.Final/e6fb74a0699abe108969b2ec1f269391169a0426/netty-3.5.2.Final.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e6fb74a0699abe108969b2ec1f269391169a0426">
+        <dex dex="/home/kkuei/android_core/android_speech/build/intermediates/pre-dexed/debug/netty-3.5.2.Final-a3a0e8ee3e78253de5afe18b0aff1a8b9446bc87.jar" />
+    </item>
+    <item
+        jar="/home/kkuei/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_messages/nav_msgs/1.11.7/13b7b4aae1bf791c4f3a3a9ef68e58015cff1152/nav_msgs-1.11.7.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="13b7b4aae1bf791c4f3a3a9ef68e58015cff1152">
+        <dex dex="/home/kkuei/android_core/android_speech/build/intermediates/pre-dexed/debug/nav_msgs-1.11.7-dd3f525654ae6d3d0242d677e21796a8f0da2e44.jar" />
+    </item>
+    <item
+        jar="/home/kkuei/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/12.0/5bc66dd95b79db1e437eb08adba124a3e4088dc0/guava-12.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5bc66dd95b79db1e437eb08adba124a3e4088dc0">
+        <dex dex="/home/kkuei/android_core/android_speech/build/intermediates/pre-dexed/debug/guava-12.0-b780e2d52c9f6f91448c8d3fe167416d650489cc.jar" />
+    </item>
+
+</items>
